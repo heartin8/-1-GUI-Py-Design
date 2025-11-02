@@ -1,2 +1,2 @@
-# -1-GUI-Py-Design
-🎨 Geometric Art with Turtle Graphics – Created using Python’s turtle library to generate symmetrical geometric patterns through loops and coordinate logic. Demonstrates algorithmic thinking and creative visualization.
+# -1-Logo-Py-Design
+🔷 Logo Design with Turtle Graphics – Developed a custom logo using Python’s turtle module, combining precision, shapes, and color coordination.
